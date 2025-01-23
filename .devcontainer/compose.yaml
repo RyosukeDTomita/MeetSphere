@@ -1,11 +1,11 @@
 # Dev Containerではこちらが優先される。
 services:
-  sigma_app: # fixme
+  backend: # fixme
     build:
       target: devcontainer
       context: .
       dockerfile: Dockerfile
-    image: python-devcontainer:latest
-    container_name: python-devcontainer-container
+    image: backend:latest
+    container_name: backend-container
     volumes:
       - ./:/app # contextから見たパスではなく，リポジトリから見たパスがvolume mountされる。
