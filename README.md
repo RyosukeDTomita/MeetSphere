@@ -1,5 +1,5 @@
 <!-- FIXME title -->
-# APP NAME
+# MeetSphere
 
 <!--![un license](https://img.shields.io/github/license/RyosukeDTomita/<your-repository>)-->
 
@@ -22,7 +22,7 @@
 ---
 
 <!-- NOLICENSE or MIT? -->
-[FIXME](./LICENSE)
+[LICENSE](./LICENSE)
 
 ---
 
