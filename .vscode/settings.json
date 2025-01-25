@@ -1,5 +1,4 @@
 {
-  "markdown-pdf.highlightStyle": "solarized-dark.css",
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
     "editor.formatOnSave": true,
